@@ -1,0 +1,1 @@
+dispensador_gel_combinado_temperatura
